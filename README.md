@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zashankkhare94
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...SQL, Python and Machine Learning
-- 💞️ I’m looking to collaborate on ...Data Science related stuff such as Data cleaning, Data wrangling,Preparation,EDA,Dashboarding,etc.
+- 🌱 I’m currently learning ...SQL, Python,Statistics,Advance Excel and Machine Learning
+- 💞️ I’m looking to collaborate on ...Data Science related stuff such as Data cleaning, Data wrangling,Data Preparation,Data Visualization, EDA,etc.
 - 📫 How to reach me ... 
 - Gmail_id : zashank.khare94@gmail.com
 - My contact no. : 8871108349
